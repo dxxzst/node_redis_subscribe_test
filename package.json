@@ -1,0 +1,19 @@
+{
+  "name": "node_redis_subscribe_test",
+  "version": "1.0.0",
+  "description": "node redis subscribe test",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "redis",
+    "subscribe"
+  ],
+  "author": "XS",
+  "license": "ISC",
+  "dependencies": {
+    "redis": "^2.8.0"
+  }
+}
